@@ -12,7 +12,4 @@ This project was created as part of a learning process. I followed a tutorial to
 This is a beginner-level project focused on understanding the basics of Flutter UI development.  
 
 ## Demo  
-<video controls width="600">
-  <source src="demoUI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](demoUI.gif)
